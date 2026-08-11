@@ -13,5 +13,15 @@ banking risk, fraud analysis and cybersecurity.
 
 ## Technical focus
 
-Python · SQL · scikit-learn · PyTorch · FastAPI · Django
-PostgreSQL · PySpark · Airflow · dbt · Docker · GitHub Actions
+**Data Science & Machine Learning:** Python · pandas · NumPy · scikit-learn · EDA · Data Cleaning · Feature Engineering · Classification · Regression · Clustering · Model Evaluation · Deep Learning · Reinforcement Learning
+
+**Data & Databases:** SQL · MySQL · MongoDB · Data Warehousing · ETL/ELT
+
+**Backend & Deployment:** FastAPI · Streamlit · PHP · Laravel · MVC Architecture
+
+**Cybersecurity & Systems:** Linux · Kali Linux · Network Security · Cryptography · Cybersecurity Fundamentals
+
+**Computer Science:** C · Data Structures · Algorithms · OOP · UML · Design Patterns
+
+**Tools:** Git · GitHub
+

@@ -7,8 +7,7 @@ banking risk, fraud analysis and cybersecurity.
 
 ## Featured work
 
-- BankRisk Compass — Credit-risk screening and model-governance platform
-- BankFlow360 — End-to-end banking data engineering platform
+- Aegis-Credit— Credit-risk screening and model-governance platform
 - NetGuard — Network anomaly detection with FastAPI, PyTorch and Streamlit
 
 ## Technical focus

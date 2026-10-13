@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Khalid Karroum — Data Scientist and Machine Learning Engineer</title>
+  <desc id="desc">A navy and teal banner with an abstract network illustration and the words From data to useful applications.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1628"/><stop offset="1" stop-color="#142d40"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#43d9c5"/><stop offset="1" stop-color="#74adff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#75b6c8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#2a465b"/>
+  <path d="M64 66H96" stroke="#43d9c5" stroke-width="4" stroke-linecap="round"/>
+  <text x="112" y="72" fill="#71dfd0" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">DATA · MODELS · SOFTWARE</text>
+  <text x="60" y="155" fill="#f1f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Khalid Karroum</text>
+  <text x="64" y="200" fill="#b9cadc" font-family="Segoe UI,Arial,sans-serif" font-size="24">Data Scientist &amp; Machine Learning Engineer</text>
+  <text x="64" y="257" fill="#d8e5ef" font-family="Segoe UI,Arial,sans-serif" font-size="19">From data to useful applications.</text>
+  <circle cx="72" cy="308" r="4" fill="#43d9c5"/>
+  <text x="88" y="313" fill="#92aabd" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">MOROCCO</text>
+  <path d="M197 299v18" stroke="#365165"/>
+  <text x="217" y="313" fill="#92aabd" font-family="Segoe UI,Arial,sans-serif" font-size="14">Machine learning · Data analysis · Cybersecurity</text>
+  <g transform="translate(826 58)">
+    <circle cx="148" cy="123" r="111" fill="none" stroke="#3b697c" stroke-opacity=".28"/>
+    <circle cx="148" cy="123" r="78" fill="none" stroke="#3b697c" stroke-opacity=".35" stroke-dasharray="3 7"/>
+    <g fill="none" stroke="url(#line)" stroke-opacity=".6" stroke-width="1.5">
+      <path d="M38 155L104 51L159 125L236 48L260 173L174 218L159 125L38 155L174 218L104 51L236 48"/>
+      <path d="M104 51L260 173L159 125L236 48M38 155L260 173"/>
+    </g>
+    <g fill="#143546" stroke="#55ddcd" stroke-width="2">
+      <circle cx="38" cy="155" r="7"/><circle cx="104" cy="51" r="8"/><circle cx="236" cy="48" r="6"/>
+      <circle cx="260" cy="173" r="8"/><circle cx="174" cy="218" r="6"/>
+    </g>
+    <circle cx="159" cy="125" r="27" fill="#43d9c5" fill-opacity=".08"/>
+    <circle cx="159" cy="125" r="17" fill="#143546" stroke="#80e9dc" stroke-width="2"/>
+    <circle cx="159" cy="125" r="5" fill="#80e9dc"/>
+    <text x="109" y="285" fill="#71a0b6" font-family="Consolas,monospace" font-size="12" letter-spacing="3">LEARN. BUILD. REFINE.</text>
+  </g>
+</svg>

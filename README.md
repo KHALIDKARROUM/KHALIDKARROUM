@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/khalid-karroum/"><img src="https://img.shields.io/badge/LinkedIn-Connect-176B87?style=flat-square" alt="Connect on LinkedIn" /></a>
   <a href="mailto:karroumkhalid6@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-176B87?style=flat-square" alt="Email Khalid" /></a>
-  <a href="https://github.com/KHALIDKARROUM/khalidkarroum.github.io"><img src="https://img.shields.io/badge/Portfolio-Explore_the_source-176B87?style=flat-square" alt="Explore my portfolio source" /></a>
+  <a href="https://khalidkarroum.github.io/"><img src="https://img.shields.io/badge/Portfolio-View_projects-176B87?style=flat-square" alt="Visit my portfolio" /></a>
 </p>
 
 <p align="center"><b>Seeking a six-month PFE internship starting January 2027</b><br />Data Science · Machine Learning · Data Analytics · Data Engineering</p>

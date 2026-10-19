@@ -1,0 +1,5 @@
+Tool logos: Devicon v2.17.0 (MIT), https://github.com/devicons/devicon/tree/v2.17.0. See devicon-LICENSE.txt.
+Seaborn logo: https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.svg (BSD 3-Clause); see seaborn-LICENSE.txt.
+XGBoost logo: https://xgboost.ai/images/logo/xgboost-logo.svg (Apache 2.0); see xgboost-LICENSE.txt.
+LightGBM logo: https://github.com/lightgbm-org/LightGBM/blob/main/docs/logo/LightGBM_logo_no_text.svg (MIT); see lightgbm-LICENSE.txt.
+Brand marks belong to their respective owners. Layout and contour artwork created for Khalid Karroum.
